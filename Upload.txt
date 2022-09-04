@@ -1,0 +1,7 @@
+Make a repo in github
+git init
+git remote add origin https://github.com/gauravdazzler/TextUtils.git ( copy this command from your repo )
+git add .
+git commit -m "Jo bhi msg daalna hai vo" 
+git push origin master
+do host your website on versel
